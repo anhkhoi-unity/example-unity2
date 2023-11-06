@@ -1,6 +1,6 @@
 exampleunity
 ============
-poll 2
+poll3
 
 An example app created using the Unity game engine: http://unity3d.com/
 
